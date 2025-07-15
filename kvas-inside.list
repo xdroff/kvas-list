@@ -11,11 +11,13 @@
 *adobe.io
 *agents.media
 *agentura.ru
+*amazon.com
 *amazonaws.com
 *amnezia.org
 *analytics.tiktok.com
 *anthropic.com
 *antizapret.prostovpn.org
+*api.lab.amplitude.com
 *api.openai.com
 *appstorrent.ru
 *aqicn.org
@@ -23,6 +25,8 @@
 *atlassian.com
 *auth.openai.com
 *avira.com
+*aws.amazon.com
+*banditodigital.com
 *bbc.co.uk
 *bbc.com
 *bbci.co.uk
@@ -76,6 +80,7 @@
 *daemon-tools.cc
 *datacamp.com
 *decrypt.day
+*deepl.com
 *deepstatemap.live
 *deezer.com
 *delfi.ee
@@ -86,6 +91,7 @@
 *depositphotos.com
 *deviantart.com
 *devops.com
+*diffchecker.com
 *digitalcontent.sky
 *digitalocean.com
 *discord.com
@@ -111,6 +117,7 @@
 *elastic.co
 *element14.com
 *err.ee
+*esputnik.com
 *etsy.com
 *euronews.com
 *euroradio.fm
@@ -165,6 +172,7 @@
 *getoutline.org
 *gfn.am
 *ggpht.com
+*gitcontainer.com
 *gitlab.com
 *gitlab.io
 *glpals.com
@@ -192,6 +200,7 @@
 *gstatic.com
 *gulagu.net
 *habr.com
+*hackacad.net
 *hashicorp.com
 *hdrezka.ag
 *healthline.com
@@ -293,8 +302,10 @@
 *malwarebytes.com
 *mangahub.ru
 *mangapark.net
+*manus.im
 *mattermost.com
 *mbed.com
+*mcp.so
 *mdza.io
 *mediazona.ca
 *mediazona.online
@@ -328,6 +339,7 @@
 *nba.com
 *neformat.com.ua
 *netflix.com
+*netgate.com
 *netlify.com
 *networksolutions.com
 *newsru.co.il
@@ -340,6 +352,7 @@
 *nih.gov
 *nitropdf.com
 *nnmclub.to
+*nnmstatic.win
 *nordvpn.com
 *notesnook.com
 *notion-static.com
@@ -399,6 +412,7 @@
 *pingdom.com
 *pixiv.net
 *plab.site
+*plainframework.com
 *plugshare.com
 *polit.ru
 *politiken.dk
@@ -422,6 +436,7 @@
 *proxy6.net
 *pscp.tv
 *psiphon.ca
+*pxfuel.com
 *qt.io
 *qualcomm.com
 *quietpc.com
@@ -440,6 +455,7 @@
 *refactoring.guru
 *refinitiv.com
 *registry.terraform.io
+*releases.raycast.com
 *remove.bg
 *republic.ru
 *resp.app
@@ -491,6 +507,7 @@
 *severreal.org
 *sfdcopens.com
 *shinyhardware.co.uk
+*shop.netgate.com
 *showip.net
 *sibautomation.com
 *sibreal.org
@@ -571,6 +588,7 @@
 *trailblazer.me
 *trailhead.com
 *trellix.com
+*trychroma.com
 *tsmc.com
 *tutanota.com
 *tuxera.com
@@ -696,5 +714,4 @@ gemini.google.com
 myip2.ru
 news.google.com
 play.google.com
-releases.raycast.com
 tokenized.play.google.com
